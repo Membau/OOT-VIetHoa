@@ -1,0 +1,21 @@
+# Bỏ qua tất cả
+/*
+
+# Giữ lại .gitignore và README.md
+!.gitignore
+!README.md
+
+# Chỉ theo dõi text/nes_message_data_static
+!text/
+text/*
+!text/nes_message_data_static/
+
+# Chỉ theo dõi textures/nes_font_static
+!textures/
+textures/*
+!textures/nes_font_static/
+
+# Bỏ qua file backup .bak
+*.bak
+*.json
+*.txt 
