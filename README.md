@@ -1,7 +1,7 @@
 # Zelda: Ocarina of Time - Việt Hóa
 
 Dự án dịch thuật và Việt hóa cho The Legend of Zelda: Ocarina of Time trên hệ máy nintendo 64.
-Sử dụng giả lập của shipofharkinian xem thêm tại: https://github.com/shipofharkinian/Ship-of-Harkinian
+Sử dụng giả lập của shipofharkinian xem thêm tại: https://www.shipofharkinian.com/en 
 
 ## Cấu trúc
 
